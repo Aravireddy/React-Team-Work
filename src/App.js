@@ -1,12 +1,13 @@
 
 import './App.css';
 import "./Responsive.css";
+import Navbar from './components/Navbar/Navbar';
 
 
 function App() {
   return (
     <div className="App">
-      <h1>Main function</h1>
+      <Navbar />
     </div>
   );
 }
