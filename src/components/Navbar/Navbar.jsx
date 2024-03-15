@@ -17,7 +17,7 @@ function Navbar() {
         <div className='btns-box'>
           <button className='cart'>Cart</button>
           <button className='login'>Login</button>
-        <button className='singup'>Sing Up</button></div>
+        <button className='singup'>Sign Up</button></div>
       </nav>
     </div>
   )
