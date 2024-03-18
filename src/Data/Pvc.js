@@ -1,6 +1,6 @@
 export const PVccpData=[
     {
-        "id": "",     
+        "id": "1",     
         "image": "",     
         "productDic": "",     
         "pice": "",     
@@ -10,7 +10,7 @@ export const PVccpData=[
         "color": "",     
     },
     {
-        "id": "",     
+        "id": "2",     
         "image": "",     
         "productDic": "",     
         "pice": "",     
@@ -20,7 +20,7 @@ export const PVccpData=[
         "color": "",     
     },
     {
-        "id": "",     
+        "id": "3",     
         "image": "",     
         "productDic": "",     
         "pice": "",     
@@ -32,7 +32,17 @@ export const PVccpData=[
 ]
 export const sudhakerData =[
     {
-        "id": "",     
+        "id": "4",     
+        "image": "",     
+        "productDic": " ",     
+        "pice": "",     
+        "lenght": "",     
+        "brand": "",     
+        "size": "",     
+        "color": "",     
+    },
+    {
+        "id": "5",     
         "image": "",     
         "productDic": "",     
         "pice": "",     
@@ -42,7 +52,17 @@ export const sudhakerData =[
         "color": "",     
     },
     {
-        "id": "",     
+        "id": "6",     
+        "image": "",     
+        "productDic": "Pulmbing",     
+        "pice": "940",     
+        "lenght": "3mm",     
+        "brand": "Sudakar pvc pipes",     
+        "size": "3inch",     
+        "color": "Gray",     
+    },
+    {
+        "id": "7",     
         "image": "",     
         "productDic": "",     
         "pice": "",     
@@ -52,27 +72,7 @@ export const sudhakerData =[
         "color": "",     
     },
     {
-        "id": "",     
-        "image": "",     
-        "productDic": "",     
-        "pice": "",     
-        "lenght": "",     
-        "brand": "",     
-        "size": "",     
-        "color": "",     
-    },
-    {
-        "id": "",     
-        "image": "",     
-        "productDic": "",     
-        "pice": "",     
-        "lenght": "",     
-        "brand": "",     
-        "size": "",     
-        "color": "",     
-    },
-    {
-        "id": "",     
+        "id": "8",     
         "image": "",     
         "productDic": "",     
         "pice": "",     
