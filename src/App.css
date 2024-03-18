@@ -15,6 +15,8 @@
   height: 10vh;
   background: rgba(0, 0, 0, 0.3);
   position: fixed;
+  top: 0;
+  z-index: 2;
   
 }
 
@@ -55,4 +57,7 @@
 }
 .login{
   font-size: 20px;
+}
+.HeroB{
+  filter: grayscale(100%);
 }
