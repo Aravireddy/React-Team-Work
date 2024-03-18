@@ -1,31 +1,31 @@
 export const UltratechDat=[
     {
         "id": "1",     
-        "image": "./assets/Ultra/33-grade-cement.webp",
+        "image": "./assets/cements/ultratech/c1.jpg",
         "Grade": "33 Grade Cement",     
         "productDesc": "33 grade cement is commonly used for general construction work and plastering.has a compressive strength of 33 N/mm² after 28 days of curing. This type of cement is suitable for use in construction projects where the requirement for high strength is not critical. It is not suitable for concrete mix above M20.",     
         "price": "Rs. 280/-",     
-        "Weight": "320kg",     
+        "Weight": "50kg",     
         "brand": "Ultra Tech",
     },
     
     {
         "id": "2",     
-        "image": "",
+        "image": "./assets/cements/ultratech/c2.jpg",
         "Grade": "43 Grade cement",     
         "productDesc": "43 grade cement is the most commonly used grade of cement in India. It has a compressive strength of 43 N/mm² after 28 days of curing. It's suitable for use in construction projects where moderate to high strength is required, such as plain concrete or plastering works. It is also used to make precast items such as tiles, blocks, pipes, etc. It has a higher compressive strength than 33-grade cement and is suitable for medium-scale construction projects. It is suitable for concrete mix up to M30.",     
         "price": "Rs.380/-",     
-        "Weight": "340kg",     
+        "Weight": "50kg",     
         "brand": "Ultra Tech",
     },
 
     {
         "id": "3",     
-        "image": "", 
+        "image": "./assets/cements/ultratech/c3.jpg", 
         "Grade": "53 Grade Cement",    
         "productDesc": "53 grade cement is the highest grade of cement available in India. It has a compressive strength of 53 N/mm² after 28 days of curing. This type of cement is suitable for use in construction projects where high strength is required, such as in the construction of high-rise buildings, dams, and heavy-duty industrial structures. It has a higher compressive strength than both 33 and 43-grade cement, making it more durable and long-lasting. Suitable for concrete mix above M25",     
         "price": "Rs.600/-",     
-        "Weight": "340kg",     
+        "Weight": "50kg",     
         "brand": "Ultra Tech",
     },
 ]
