@@ -1,10 +1,12 @@
 import React from 'react'
+import { FaCartArrowDown } from "react-icons/fa6";
+import { CiLogin } from "react-icons/ci";
 
 function Navbar() {
   return (
     <div className='navBar-main'>
       <nav className='navBar'>
-        <h1 className='logo'>Logo</h1>
+        <h1 className='logo'>Material</h1>
         <div className='list-items'>
         <li><a href="/">Home</a></li>
         <li><a href="/">Materials</a></li>
@@ -15,9 +17,9 @@ function Navbar() {
 ' />
         </div>
         <div className='btns-box'>
-          <button className='cart'>Cart</button>
-          <button className='login'>Login</button>
-        <button className='singup'>Sign Up</button></div>
+          <button className='cart'><FaCartArrowDown /></button>
+          <button className='login'>Login <CiLogin/></button>
+        </div>
       </nav>
     </div>
   )
