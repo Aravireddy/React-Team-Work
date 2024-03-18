@@ -1,0 +1,32 @@
+export const PVccpData=[
+    {
+        "id": "",     
+        "image": "",     
+        "productDic": "",     
+        "pice": "",     
+        "lenght": "",     
+        "brand": "",     
+        "size": "",     
+        "color": "",     
+    },
+    {
+        "id": "",     
+        "image": "",     
+        "productDic": "",     
+        "pice": "",     
+        "lenght": "",     
+        "brand": "",     
+        "size": "",     
+        "color": "",     
+    },
+    {
+        "id": "",     
+        "image": "",     
+        "productDic": "",     
+        "pice": "",     
+        "lenght": "",     
+        "brand": "",     
+        "size": "",     
+        "color": "",     
+    },
+]
