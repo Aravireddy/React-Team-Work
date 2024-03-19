@@ -1,9 +1,9 @@
 
 import './App.css';
+import CementPage from './Pages/CementPage';
 import "./Responsive.css";
 import HeroSection from './components/Hero/HeroSection';
 import Navbar from './components/Navbar/Navbar';
-import Ultratech from './components/ProductDetail/UltratechCements/Ultratech';
 
 
 
@@ -12,7 +12,9 @@ function App() {
     <div className="App">
       <Navbar />
       <HeroSection />
-      <Ultratech />
+      <div className='mbody'>
+      <CementPage />
+      </div>
     </div>
   );
 }

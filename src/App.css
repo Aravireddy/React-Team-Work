@@ -9,6 +9,11 @@
   font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.mbody{
+  margin: 50px ;
+}
+
+
 .navBar-main{
   display: flex;
   width: 100%;
@@ -95,3 +100,24 @@
   box-shadow: 10px 5px 10px 5px black;
 }
 
+
+
+.pbody{
+  border: 1px solid black;
+  align-items: center;
+  padding: 10px;
+}
+.pageSection{
+  display: grid;
+  grid-template-columns: repeat(4, 300px);
+  gap: 10px;
+  width: 100%;
+  
+}
+.pageImage{
+  width: 250px;
+  height: 250px;
+}
+.pageImage img{
+  width: 100%;
+}
