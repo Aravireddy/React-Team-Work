@@ -13,7 +13,7 @@ function Navbar() {
         <li><a href="/">About Us</a></li>
         </div>
         <div className='serch'>
-          <input className='serchBox' type="text" placeholder='Serch .... !' />
+          <input className='serchBox' type="text" placeholder='Search .... ' />
         </div>
         <div className='btns-box'>
           <button className='cart'><FaCartArrowDown /></button>

@@ -16,8 +16,8 @@ const CementPage = () => {
                             {item.Grade},
                             {item.productDesc}
                         </div>
-                        <div>
-                            <button>BUY</button>  OR  <button>ADD TO CART</button>
+                        <div className='btns'>
+                            <button className='btn-c'>BUY</button>  OR  <button className='btn-c'>ADD TO CART</button>
                         </div>
                     </div>
                 )
@@ -35,8 +35,8 @@ const CementPage = () => {
                             {item.Grade},
                             {item.productDesc}
                         </div>
-                        <div>
-                            <button>BUY</button>  OR  <button>ADD TO CART</button>
+                        <div className='btns'>
+                            <button className='btn-c'>BUY</button>  OR  <button className='btn-c'>ADD TO CART</button>
                         </div>
                     </div>
                 )
@@ -53,8 +53,8 @@ const CementPage = () => {
                             {item.Grade},
                             {item.productDesc}
                         </div>
-                        <div>
-                            <button>BUY</button>  OR  <button>ADD TO CART</button>
+                        <div className='btns'>
+                            <button className='btn-c'>BUY</button>  OR  <button className='btn-c'>ADD TO CART</button>
                         </div>
                     </div>
                 )
