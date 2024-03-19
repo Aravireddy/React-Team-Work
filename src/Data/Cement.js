@@ -43,7 +43,7 @@ export const ACCData=[
 
     {
         "id": "5",     
-        "image": "./assets/cements/acc/acc53.jpg",
+        "image": "",
         "Grade": "53 Grade Cement",     
         "productDesc": "This is an Ordinary Portland Cement which surpasses the requirements of IS: 12269-53 Grade. read more...",     
         "price": "Rs.410/-",     
