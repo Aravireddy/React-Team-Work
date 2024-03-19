@@ -33,8 +33,8 @@ export const UltratechDat=[
 export const ACCData=[
     {
         "id": "4",     
-        "image": "",
-        "Grade": "43 Grade Cement (OPC 43 Grade)",     
+        "image": "./assets/cements/acc/acc43.jpg",
+        "Grade": "43 Grade Cement (OPC 43)",     
         "productDesc": "ACC Cement is the most used cement in all constructions including plain and read more...",     
         "price": "Rs.380/-",     
         "Weight": "50kg",     
@@ -43,7 +43,7 @@ export const ACCData=[
 
     {
         "id": "5",     
-        "image": "",
+        "image": "./assets/cements/acc/acc53.jpg",
         "Grade": "53 Grade Cement",     
         "productDesc": "This is an Ordinary Portland Cement which surpasses the requirements of IS: 12269-53 Grade. read more...",     
         "price": "Rs.410/-",     

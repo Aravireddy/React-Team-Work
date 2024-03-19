@@ -13,7 +13,7 @@ const CementPage = () => {
                             <img src={item.image} alt="" />
                         </div>
                         <div className="productModal">
-                            {item.Grade},
+                        <h3>{item.Grade}</h3>
                             {item.productDesc}
                         </div>
                         <div className='btns'>
@@ -29,10 +29,10 @@ const CementPage = () => {
                 return(
                     <div className='pbody'>
                         <div className="pageImage">
-                            <img src={item.image} alt="" />
+                            <img  src={item.image} alt="" />
                         </div>
                         <div className="productModal">
-                            {item.Grade},
+                            <h3>{item.Grade}</h3>
                             {item.productDesc}
                         </div>
                         <div className='btns'>
@@ -50,7 +50,7 @@ const CementPage = () => {
                             <img src={item.image} alt="" />
                         </div>
                         <div className="productModal">
-                            {item.Grade},
+                        <h3>{item.Grade}</h3>
                             {item.productDesc}
                         </div>
                         <div className='btns'>
